@@ -4,14 +4,14 @@
 实现目标语言 > 英语 > 目标语言的word文档的翻译功能
 
 ## 运行环境
-1.安装 .NET Core 2.2 Runtime 
+1. 安装 .NET Core 2.2 Runtime 
 下载地址：https://dotnet.microsoft.com/download
-2.安装 .NET Framework 4.8 Runtime
+2. 安装 .NET Framework 4.8 Runtime
 下载地址：https://dotnet.microsoft.com/download
 
 ## 使用步骤
-1.将需要翻译的中文word文档（也可以是其他语言，需自定义目录）放入\translateDoc\cn 目录下
-2.win+r 打开 cmd 切换至\translateSolution目录后运行
+1. 将需要翻译的中文word文档（也可以是其他语言，需自定义目录）放入\translateDoc\cn 目录下
+2. win+r 打开 cmd 切换至\translateSolution目录后运行
 ~~~
 dotnet run
 ~~~
