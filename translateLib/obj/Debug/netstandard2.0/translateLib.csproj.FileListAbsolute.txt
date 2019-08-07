@@ -1,0 +1,10 @@
+e:\demotest\translateSolution\translateLib\obj\Debug\netstandard2.0\translateLib.csproj.CoreCompileInputs.cache
+e:\demotest\translateSolution\translateLib\obj\Debug\netstandard2.0\translateLib.AssemblyInfoInputs.cache
+e:\demotest\translateSolution\translateLib\obj\Debug\netstandard2.0\translateLib.AssemblyInfo.cs
+e:\demotest\translateSolution\translateLib\bin\Debug\netstandard2.0\x86\ChakraCore.dll
+e:\demotest\translateSolution\translateLib\bin\Debug\netstandard2.0\translateLib.deps.json
+e:\demotest\translateSolution\translateLib\bin\Debug\netstandard2.0\translateLib.dll
+e:\demotest\translateSolution\translateLib\bin\Debug\netstandard2.0\translateLib.pdb
+e:\demotest\translateSolution\translateLib\obj\Debug\netstandard2.0\translateLib.dll
+e:\demotest\translateSolution\translateLib\obj\Debug\netstandard2.0\translateLib.pdb
+E:\demotest\translateSolution\translateLib\obj\Debug\netstandard2.0\translateLib.csprojAssemblyReference.cache

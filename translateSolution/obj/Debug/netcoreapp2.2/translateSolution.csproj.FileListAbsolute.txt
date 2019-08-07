@@ -1,0 +1,15 @@
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\x86\ChakraCore.dll
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\translateSolution.deps.json
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\translateSolution.runtimeconfig.json
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\translateSolution.runtimeconfig.dev.json
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\translateSolution.dll
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\translateSolution.pdb
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\translateLib.dll
+e:\demotest\translateSolution\translateSolution\bin\Debug\netcoreapp2.2\translateLib.pdb
+e:\demotest\translateSolution\translateSolution\obj\Debug\netcoreapp2.2\translateSolution.csprojAssemblyReference.cache
+e:\demotest\translateSolution\translateSolution\obj\Debug\netcoreapp2.2\translateSolution.csproj.CoreCompileInputs.cache
+e:\demotest\translateSolution\translateSolution\obj\Debug\netcoreapp2.2\translateSolution.AssemblyInfoInputs.cache
+e:\demotest\translateSolution\translateSolution\obj\Debug\netcoreapp2.2\translateSolution.AssemblyInfo.cs
+e:\demotest\translateSolution\translateSolution\obj\Debug\netcoreapp2.2\translateSolution.csproj.CopyComplete
+e:\demotest\translateSolution\translateSolution\obj\Debug\netcoreapp2.2\translateSolution.dll
+e:\demotest\translateSolution\translateSolution\obj\Debug\netcoreapp2.2\translateSolution.pdb
