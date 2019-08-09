@@ -10,6 +10,7 @@ namespace translateSolution
             Console.WriteLine("Hello World!");
             //Console.WriteLine("test: " + TranslationHelper.GetTranslation("en", "这是一个测试"));
             wordHelper.WordTranslate("cn","pt");
+            // wordHelper.WordTranslateForTable("cn","pt");
             Console.WriteLine("翻译完成");
         }
     }

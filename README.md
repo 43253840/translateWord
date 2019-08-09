@@ -3,6 +3,10 @@
 ## 目的
 实现目标语言 > 英语 > 目标语言的word文档的翻译功能
 
+## 更新日志
+- 20190808 更新日志
+1. 增加word文档的表格数据翻译
+
 ## 运行环境
 1. 安装 .NET Core 2.2 Runtime 
 下载地址：https://dotnet.microsoft.com/download
